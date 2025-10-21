@@ -1,4 +1,4 @@
-# PROYECTO APP [NOMBRE_PROYECTO] - NUEVO CONTRATO VIAL
+# PROYECTO APP SABANA DE TORRES - CURUMANÍ - TM02
 ## Marco de Gestión de Proyectos (PMI) - EPC VEHICULAR
 
 ![Status](https://img.shields.io/badge/Status-Fase%200%20Iniciando-blue)
@@ -276,28 +276,27 @@ NUEVO_PROYECTO/
 
 ## 📞 **INFORMACIÓN DEL PROYECTO**
 
-### Datos Generales (A Determinar)
+### Datos Generales
 
 | Campo | Valor |
 |:------|:------|
-| **Nombre** | [A DETERMINAR] |
-| **Longitud** | [A DETERMINAR] km |
-| **Ubicación** | [A DETERMINAR] |
+| **Nombre** | SABANA DE TORRES - CURUMANÍ |
+| **Longitud** | 272.1 km (origen-destino) |
+| **Ubicación** | Departamentos de Santander y Cesar |
 | **Tipo** | Concesión APP 4G |
 | **Duración** | 25 años (construcción + operación) |
-| **CAPEX Estimado** | $[TBD]M |
-| **CAPEX/km Objetivo** | $180K-$250K/km |
+| **CAPEX Estimado** | $54-68M USD (rango APP 4G) |
+| **CAPEX/km Objetivo** | $200K-$250K/km |
 
-### Sistemas Esperados (Basado en APP 4G Típico)
-- X Estaciones de Peaje
-- X Áreas de Servicio
-- 1 Centro de Control Operacional (CCO)
-- X Cámaras CCTV
-- X Postes SOS
-- X Paneles de Mensaje Variable (PMV)
-- X Luminarias LED
-- X Estaciones de Pesaje
-- X km Red de Fibra Óptica
+### Sistemas Identificados (Basado en AT1)
+- **3 Estaciones de Peaje** (La Gómez, Morrison, Pailitas)
+- **25 Paneles LED** mínimo (cada 20 km máximo)
+- **43 Puentes Peatonales** obligatorios
+- **10 Unidades Funcionales** de construcción
+- **272.1 km** de vía total
+- **Iluminación** en peajes, áreas de servicio, intersecciones
+- **Señalización** vertical y horizontal
+- **Sistemas Inteligentes** (por definir en AT2)
 
 ---
 
