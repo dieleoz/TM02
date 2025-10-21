@@ -2,8 +2,8 @@
 ## Proyecto APP SABANA DE TORRES - CURUMANÍ
 
 **Fecha:** 21 de Octubre 2025  
-**Estado:** ✅ FASE T02 COMPLETADA  
-**Total Documentos:** 45 archivos  
+**Estado:** 🚀 FASE T04 EN PROGRESO  
+**Total Documentos:** 50 archivos  
 **Versión:** 1.0  
 
 ---
@@ -15,8 +15,9 @@
 | **Contratos Base** | 18 docs | ✅ Completado | 100% |
 | **T01 - Fichas Sistema** | 14 docs | ✅ Completado | 100% |
 | **T02 - Análisis Requisitos** | 14 docs | ✅ Completado | 100% |
-| **T03 - Arquitecturas** | 0 docs | ⏳ Pendiente | 0% |
-| **Documentos Transversales** | 3 docs | ✅ Completado | 100% |
+| **T03 - Arquitecturas** | 14 docs | ✅ Completado | 100% |
+| **T04 - Especificaciones** | 4 docs | 🚀 En Progreso | 33% |
+| **Documentos Transversales** | 4 docs | ✅ Completado | 100% |
 | **Templates y Scripts** | 7 docs | ✅ Completado | 100% |
 
 **Total:** 45 documentos creados | **Progreso General:** 85%
@@ -182,20 +183,53 @@
 
 ---
 
+## 📋 FASE T04 - ESPECIFICACIONES TÉCNICAS DETALLADAS
+
+### Estado: 🚀 EN PROGRESO (33% Completado)
+
+| Código | Documento | Estado | Fecha | CAPEX (USD) |
+|:-------|:----------|:-------|:------|:------------|
+| **T04_01** | Especificaciones Estaciones Peaje | ✅ Completado | 21/10/2025 | $1,349,900 |
+| **T04_02** | Especificaciones CCO | ✅ Completado | 21/10/2025 | $1,966,250 |
+| **T04_04** | Especificaciones Paneles LED | ✅ Completado | 21/10/2025 | $2,258,050 |
+| **T04_14** | Especificaciones Telecomunicaciones | ✅ Completado | 21/10/2025 | $3,685,025 |
+| **T04_03** | Especificaciones Bases Operación | ⏳ Pendiente | - | - |
+| **T04_05** | Especificaciones Ambulancias TAM | ⏳ Pendiente | - | - |
+| **T04_06** | Especificaciones Puentes Peatonales | ⏳ Pendiente | - | - |
+| **T04_07** | Especificaciones Iluminación | ⏳ Pendiente | - | - |
+| **T04_08** | Especificaciones Información Usuarios | ⏳ Pendiente | - | - |
+| **T04_09** | Especificaciones Áreas Servicio | ⏳ Pendiente | - | - |
+| **T04_10** | Especificaciones Equipos Emergencia | ⏳ Pendiente | - | - |
+| **T04_11** | Especificaciones Atención Cliente | ⏳ Pendiente | - | - |
+| **T04_12** | Especificaciones Intercambiadores | ⏳ Pendiente | - | - |
+| **T04_13** | Especificaciones Variantes | ⏳ Pendiente | - | - |
+
+**CAPEX Parcial (4 sistemas):** $9,259,225  
+**CAPEX Proyectado Total:** $25,000,000  
+**CAPEX/km:** $294,118/km (⚠️ 17% sobre rango APP 4G)
+
+---
+
 ## 🚀 PRÓXIMOS PASOS
 
-### Fase T03 - Arquitecturas Conceptuales (Próxima)
+### Fase T04 - Especificaciones Técnicas (Continuación)
 **Prioridad 1 - Sistemas Críticos:**
-1. T03_02 - Arquitectura CCO
-2. T03_14 - Arquitectura Telecomunicaciones  
-3. T03_01 - Arquitectura Estaciones Peaje
-4. T03_03 - Arquitectura Bases Operación
+1. T04_10 - Especificaciones Equipos Emergencia
+2. T04_07 - Especificaciones Iluminación  
+3. T04_08 - Especificaciones Información Usuarios
+4. T04_03 - Especificaciones Bases Operación
 
-**Tiempo Estimado:** 3-4 semanas
+**Tiempo Estimado:** 2-3 semanas
+
+### Actividades Paralelas
+- [ ] Solicitar cotizaciones formales (sistemas completados)
+- [ ] Optimización de costos (CAPEX/km)
+- [ ] Validación con especialistas técnicos
+- [ ] Preparación de especificaciones de licitación
 
 ---
 
 **Versión:** 1.0  
-**Estado:** ✅ Índice Maestro Completado  
+**Estado:** 🚀 Fase T04 en Progreso - 33% Completado  
 **Fecha:** 21/10/2025  
 **Responsable:** Administrador Contractual EPC
