@@ -1,0 +1,70 @@
+# Carpeta de referencia TM01 (no versionar)
+0.0 FORMATOS PARA IA - copia/
+
+# Archivos temporales
+*.tmp
+*.temp
+~*
+.DS_Store
+Thumbs.db
+
+# Archivos de Office temporales
+~$*
+*.docx
+*.xlsx
+*.pptx
+
+# Archivos de backup
+*.bak
+*.backup
+*~
+
+# Carpetas de sistema
+.vscode/
+.idea/
+.vs/
+
+# Archivos grandes (>100MB)
+*.zip
+*.rar
+*.7z
+*.iso
+
+# Logs
+*.log
+logs/
+
+# Archivos de configuración local
+config.local.*
+settings.local.*
+
+# Archivos PDF originales (mantener solo los convertidos)
+*.pdf
+
+# Archivos de trabajo temporal
+draft/
+temp/
+working/
+
+# Archivos de sistema Windows
+desktop.ini
+ehthumbs.db
+
+# Archivos de sistema Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node modules (si se usa alguna herramienta JS)
+node_modules/
+
+# Python cache (si se usa alguna herramienta Python)
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de compilación
+*.exe
+*.dll
+*.so
+*.dylib
