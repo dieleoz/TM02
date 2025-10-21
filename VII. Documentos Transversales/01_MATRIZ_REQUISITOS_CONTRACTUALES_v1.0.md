@@ -100,29 +100,78 @@
 
 ---
 
-## 🔍 SISTEMAS POR DEFINIR (REQUIEREN AT2)
+## ✅ SISTEMAS IDENTIFICADOS EN AT2 (OPERACIÓN Y MANTENIMIENTO)
 
-### Sistemas Mencionados pero Sin Especificación Detallada:
+### 8. CENTRO DE CONTROL DE OPERACIÓN (CCO) - OBLIGATORIO
 
-1. **Centro de Control y Operación (CCO)**
-   - Mencionado en requisitos de iluminación
-   - Especificaciones detalladas en AT2
+| Sistema | Especificación | Fuente Contractual |
+|:--------|:---------------|:-------------------|
+| **CCO** | Centro de Control de Operación | AT2 - Sección 3.1.7, 3.3.3.3 |
+| **Función** | Plataforma tecnológica permanente | AT2 - "Disponibilidad de la Información" |
+| **Componentes** | Hardware, software, sistemas información, redes | AT2 - Sección 3.1.7 |
 
-2. **Estaciones de Pesaje**
-   - Mencionadas en requisitos de iluminación
-   - Especificaciones detalladas en AT2
+**Obligación Contractual:** "El Concesionario deberá contar con una plataforma tecnológica (hardware, software, sistemas de información, aplicaciones y portales web, interfases, redes locales de datos y voz, redes de telecomunicación)"
 
-3. **Áreas de Servicio**
-   - Mencionadas en requisitos de iluminación
-   - Cantidad y ubicación en AT2
+### 9. BASES DE OPERACIÓN (2 MÍNIMO OBLIGATORIAS)
 
-4. **Sistemas Inteligentes de Transporte (ITS)**
-   - Mencionados en obligaciones de construcción
-   - Especificaciones detalladas en AT2
+| Sistema | Cantidad Mínima | Equipamiento por Base | Fuente Contractual |
+|:--------|:----------------|:---------------------|:-------------------|
+| **Bases de Operación** | 2 bases | Ver tabla detallada abajo | AT2 - Sección 3.3.3.1.1 |
 
-5. **Telecomunicaciones**
-   - Implícito para operación de sistemas
-   - Especificaciones en AT2
+**Equipamiento Obligatorio por Base:**
+- 1 Vehículo de vigilancia (24/7/365)
+- 1 Carrotaller
+- 1 Grúa para vehículos grandes
+- 1 Grúa para vehículos pequeños
+- 1 Ambulancia TAM
+- Personal capacitado en emergencias
+- 1 Cama baja (para todo el proyecto)
+
+### 10. SISTEMA DE INFORMACIÓN A USUARIOS (MÚLTIPLES COMPONENTES)
+
+| Componente | Especificación | Obligatoriedad | Fuente |
+|:-----------|:---------------|:---------------|:-------|
+| **Página Web** | Información 24/7, actualización <1 hora | Obligatoria | AT2 - 3.3.3.2.1 |
+| **Boletín Trimestral** | Distribución gratuita | Obligatorio | AT2 - 3.3.3.2.2 |
+| **Emisora de Radio** | 4 veces/hora, cobertura total vía | Obligatoria | AT2 - 3.3.3.2.3 |
+| **Paneles LED** | 25 mínimo (ya identificado AT1) | Obligatorios | AT2 - 3.3.3.2.4 |
+
+### 11. ÁREAS DE SERVICIO (OBLIGATORIAS)
+
+| Servicio | Especificación | Obligatoriedad | Fuente |
+|:---------|:---------------|:---------------|:-------|
+| **Taller mecánico** | Reparaciones básicas | Obligatorio | AT2 - 3.3.3.4 |
+| **Servicios sanitarios** | Acceso gratuito | Obligatorio | AT2 - 3.3.3.4 |
+| **Restaurante** | Venta alimentos/comidas | Obligatorio | AT2 - 3.3.3.4 |
+| **Telefonía** | Línea terrestre o radio | Obligatoria | AT2 - 3.3.3.4 |
+| **Telefonía celular** | Uno o más operadores | Obligatoria | AT2 - 3.3.3.4 |
+
+### 12. EQUIPOS DE EMERGENCIA Y RESCATE (OBLIGATORIOS)
+
+| Equipo | Especificación | Cantidad | Fuente |
+|:-------|:---------------|:---------|:-------|
+| **Fuente de Poder** | Motor gasolina ≥2.5 HP, 630 bar | Por base | AT2 - Tabla 2 |
+| **Herramienta Combinada** | Separación 14"-18", corte 67K-165K lb | Por base | AT2 - Tabla 2 |
+| **RAM** | 1-2 émbolos, elevación ≥29.900 lb | Por base | AT2 - Tabla 2 |
+| **Cortapedales** | Fuerza corte 30K-55K lb | Por base | AT2 - Tabla 2 |
+| **Cadenas** | Acero templado, ≥1.5m | Por base | AT2 - Tabla 2 |
+
+### 13. AMBULANCIAS TAM (TRASLADO ASISTENCIAL MEDICALIZADO)
+
+| Componente | Especificación | Obligatoriedad | Fuente |
+|:-----------|:---------------|:---------------|:-------|
+| **Personal** | Médico + Auxiliar + Conductor capacitado | Obligatorio | AT2 - 3.3.3.1.4 |
+| **Equipamiento** | Sistema oxígeno 6m³, monitor ECG, desfibrilador | Obligatorio | AT2 - Dotación TAM |
+| **Disponibilidad** | 24/7/365 | Obligatoria | AT2 - 3.3.3.1.4 |
+
+### 14. SISTEMA DE ATENCIÓN AL CLIENTE (OBLIGATORIO)
+
+| Canal | Especificación | Obligatoriedad | Fuente |
+|:------|:---------------|:---------------|:-------|
+| **Servicio telefónico gratuito** | Atención 24/7 | Obligatorio | AT2 - 3.3.3.3 |
+| **Libros de registro** | En CCO permanentemente | Obligatorios | AT2 - 3.3.3.3 |
+| **Email/Fax** | Recepción y respuesta | Obligatorio | AT2 - 3.3.3.3 |
+| **Sistema web integrado** | Para peajes y trámites | Obligatorio | AT2 - 3.3.3.3 |
 
 ---
 
@@ -145,15 +194,26 @@
 - **CAPEX Estimado:** $49M-$68M USD
 - **Base cálculo:** 272.1 km × $180K-$250K
 
+### Sistemas Tecnológicos Confirmados:
+- **3 Estaciones de Peaje** (reubicación La Gómez)
+- **25 Paneles LED** mínimo
+- **43 Puentes Peatonales**
+- **1 Centro de Control de Operación (CCO)**
+- **2 Bases de Operación** mínimo
+- **Múltiples Ambulancias TAM**
+- **Sistema integral de información** (web, radio, boletín)
+- **Áreas de Servicio** con servicios obligatorios
+
 ---
 
 ## 🎯 PRÓXIMOS PASOS CRÍTICOS
 
-### Fase 1: Análisis AT2 (Próximo)
-1. **Leer AT2 completo** - Operación y Mantenimiento
-2. **Identificar sistemas ITS** específicos
-3. **Validar CCO y telecomunicaciones**
-4. **Confirmar áreas de servicio**
+### Fase 1: Análisis AT2 ✅ COMPLETADO
+1. ✅ **AT2 leído completamente** - Operación y Mantenimiento
+2. ✅ **CCO identificado** - Plataforma tecnológica obligatoria
+3. ✅ **Bases de Operación confirmadas** - 2 mínimo con equipamiento
+4. ✅ **Áreas de Servicio validadas** - Servicios obligatorios definidos
+5. ✅ **Sistema información usuarios** - 4 componentes obligatorios
 
 ### Fase 2: Aplicar Metodología Punto 42
 1. **Crear T01** para cada sistema identificado
@@ -166,14 +226,15 @@
 ## ✅ CRITERIOS DE VALIDACIÓN CUMPLIDOS
 
 - [x] **AT1 leído completamente** (6,372 líneas)
+- [x] **AT2 leído completamente** (1,002 líneas)
 - [x] **Datos básicos identificados** (nombre, longitud, ubicación)
-- [x] **Sistemas obligatorios extraídos** con cláusulas específicas
+- [x] **14 sistemas obligatorios identificados** con cláusulas específicas
 - [x] **Cantidades literales validadas** con número de página
-- [x] **Metodología Punto 42 aplicada** (Fase 1 completada)
+- [x] **Metodología Punto 42 aplicada** (Fases 1-2 completadas)
 
 ---
 
 **Elaborado por:** Metodología Punto 42 v1.0  
 **Basado en:** Análisis completo AT1 (6,372 líneas)  
-**Estado:** ✅ FASE 1 COMPLETADA - Listo para AT2  
-**Próximo:** Análisis AT2 - Operación y Mantenimiento
+**Estado:** ✅ FASES 1-2 COMPLETADAS - AT1 y AT2 Analizados  
+**Próximo:** Crear T01 (Fichas de Sistema) para 14 sistemas identificados
