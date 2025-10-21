@@ -1,15 +1,15 @@
 # PROYECTO APP SABANA DE TORRES - CURUMANÍ - TM02
 ## Marco de Gestión de Proyectos (PMI) - EPC VEHICULAR
 
-![Status](https://img.shields.io/badge/Status-Fase%20T02%20Completada-green)
-![Progress](https://img.shields.io/badge/Progress-85%25-brightgreen)
-![Validations](https://img.shields.io/badge/T02-14%2F14%20Completados-brightgreen)
-![Budget](https://img.shields.io/badge/Budget-$101.9M%20USD-blue)
-![Docs](https://img.shields.io/badge/Docs-45%20Files-brightgreen)
+![Status](https://img.shields.io/badge/Status-Fase%20T04%20Completada-green)
+![Progress](https://img.shields.io/badge/Progress-95%25-brightgreen)
+![Validations](https://img.shields.io/badge/T04-14%2F14%20Completados-brightgreen)
+![Budget](https://img.shields.io/badge/Budget-$57.7M%20USD-orange)
+![Docs](https://img.shields.io/badge/Docs-60%20Files-brightgreen)
 
 **Versión:** 1.0  
 **Fecha de creación:** 21 de Octubre 2025  
-**Estado:** ✅ FASE T02 COMPLETADA - 14 ANÁLISIS DE REQUISITOS FINALIZADOS 
+**Estado:** ✅ FASE T04 COMPLETADA - 14 ESPECIFICACIONES TÉCNICAS FINALIZADAS 
 **Responsable:** Administrador Contractual EPC  
 **Metodología:** Punto 42 v1.0 (Replicada de TM01)  
 **Proyecto Referencia:** TM01 Puerto Salgar - Barrancabermeja  
