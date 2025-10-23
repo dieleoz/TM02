@@ -1,9 +1,13 @@
-# PROMPT INICIAL - PROYECTO [NOMBRE_NUEVO_PROYECTO]
+# PROMPT INICIAL - PROYECTO APP TM02 (NUEVO CONTRATO VIAL)
 
-## CONTEXTO
+## CONTEXTO ACTUALIZADO
 Eres un ingeniero EPC especializado en proyectos de infraestructura vial APP 4G en Colombia.
 
-Vas a replicar la metodología exitosa del proyecto TM01 (Puerto Salgar - Barrancabermeja) para analizar un nuevo contrato vial.
+**ESTADO ACTUAL:** ✅ FASE T04 COMPLETADA - ESPECIFICACIONES TÉCNICAS FINALIZADAS  
+**PROGRESO:** 95% completado  
+**PRÓXIMA FASE:** T05 - Consolidación Final y Optimización
+
+Has replicado exitosamente la metodología del proyecto TM01 (Puerto Salgar - Barrancabermeja) para analizar este nuevo contrato vial.
 
 ## MATERIALES DISPONIBLES
 
@@ -26,8 +30,34 @@ Vas a replicar la metodología exitosa del proyecto TM01 (Puerto Salgar - Barran
 2. Crear estructura de carpetas
 3. Inicializar git con `scripts/1_INICIALIZAR_GIT_Y_SUBIR.ps1`
 
-### FASE 1: Análisis Contractual (PRIMERO)
-**ANTES de crear cualquier T01/T02/T03, debes:**
+## FASES COMPLETADAS ✅
+
+### FASE 1: Análisis Contractual ✅ COMPLETADA
+- ✅ 18 documentos contractuales convertidos a Markdown
+- ✅ AT1 (Alcance del Proyecto) completamente analizado
+- ✅ Matriz de requisitos contractuales creada
+
+### FASE 2: Ingeniería Conceptual ✅ COMPLETADA  
+- ✅ 14 sistemas identificados y validados
+- ✅ T01: 14 Fichas de Sistema completadas
+- ✅ T02: 14 Análisis de Requisitos completados
+- ✅ Metodología Punto 42 aplicada exitosamente
+
+### FASE 3: Arquitecturas Conceptuales ✅ COMPLETADA
+- ✅ T03: 14 Arquitecturas Conceptuales completadas
+- ✅ Topologías de red definidas
+- ✅ Interfaces entre sistemas especificadas
+- ✅ Optimización arquitectónica realizada
+
+### FASE 4: Especificaciones Técnicas ✅ COMPLETADA
+- ✅ T04: 14 Especificaciones Técnicas Detalladas completadas
+- ✅ CAPEX total confirmado: $57,678,850
+- ✅ Fabricantes de referencia identificados
+- ✅ Criterios de aceptación definidos
+
+## PRÓXIMA FASE: T05 - CONSOLIDACIÓN FINAL 🚀
+
+### OBJETIVOS FASE T05:
 
 1. **Leer TODO el AT1** (Apéndice Técnico 1)
    - Identificar TODOS los sistemas mencionados
@@ -294,3 +324,177 @@ Siguiendo esta metodología validada en TM01, lograrás:
 - Arquitecturas optimizadas y constructibles
 - Detección temprana de duplicaciones
 - Cumplimiento contractual al 100%
+1. 
+**📊 Análisis de Valor y Optimización de Costos**
+   - CAPEX actual: $678,575/km (171% sobre rango APP 4G de $250K/km)
+   - Identificar sistemas prescindibles o simplificables
+   - Optimizar arquitecturas para reducir duplicaciones
+   - Análisis de alternativas tecnológicas
+
+2. **💰 Consolidación Financiera**
+   - Presupuesto final optimizado
+   - Análisis de sensibilidad de precios
+   - Modelo financiero del proyecto
+   - Cronograma de inversiones por fases
+
+3. **📋 Documentación Maestra**
+   - Índice maestro final actualizado
+   - Matriz de trazabilidad completa
+   - WBS (Work Breakdown Structure) con costos
+   - Especificaciones de licitación
+
+4. **🔍 Validación y Control de Calidad**
+   - Revisión técnica independiente
+   - Validación con especialistas por sistema
+   - Control de calidad de documentación
+   - Verificación de cumplimiento contractual
+
+## SISTEMAS COMPLETADOS (14/14)
+
+| Sistema | T01 | T02 | T03 | T04 | CAPEX (USD) |
+|:--------|:---:|:---:|:---:|:---:|:------------|
+| **01. Estaciones de Peaje** | ✅ | ✅ | ✅ | ✅ | $1,349,900 |
+| **02. Centro de Control (CCO)** | ✅ | ✅ | ✅ | ✅ | $1,966,250 |
+| **03. Bases de Operación** | ✅ | ✅ | ✅ | ✅ | $2,714,250 |
+| **04. Paneles LED** | ✅ | ✅ | ✅ | ✅ | $2,258,050 |
+| **05. Ambulancias TAM** | ✅ | ✅ | ✅ | ✅ | $1,389,150 |
+| **06. Puentes Peatonales** | ✅ | ✅ | ✅ | ✅ | $2,132,000 |
+| **07. Iluminación** | ✅ | ✅ | ✅ | ✅ | $4,100,250 |
+| **08. Información Usuarios** | ✅ | ✅ | ✅ | ✅ | $1,514,875 |
+| **09. Áreas de Servicio** | ✅ | ✅ | ✅ | ✅ | $5,320,000 |
+| **10. Equipos Emergencia** | ✅ | ✅ | ✅ | ✅ | $1,972,850 |
+| **11. Atención Cliente** | ✅ | ✅ | ✅ | ✅ | $856,250 |
+| **12. Intercambiadores** | ✅ | ✅ | ✅ | ✅ | $8,500,000 |
+| **13. Variantes** | ✅ | ✅ | ✅ | ✅ | $19,920,000 |
+| **14. Telecomunicaciones** | ✅ | ✅ | ✅ | ✅ | $3,685,025 |
+
+**TOTAL:** $57,678,850 USD
+
+## DOCUMENTOS GENERADOS (60 archivos)
+
+### Estructura Actual del Proyecto:
+```
+├── I. Contrato General/ (2 docs)
+├── II. Apendices Tecnicos/ (16 docs)
+├── III. Ingenieria Conceptual/ (56 docs)
+│   ├── T01_01 a T01_14 (Fichas Sistema)
+│   ├── T02_01 a T02_14 (Análisis Requisitos)
+│   ├── T03_01 a T03_14 (Arquitecturas)
+│   └── T04_01 a T04_14 (Especificaciones)
+├── VII. Documentos Transversales/ (5 docs)
+├── templates/ (4 plantillas)
+└── scripts/ (3 scripts)
+```
+
+## CARPETAS FALTANTES (Para Fase T05)
+
+Comparando con el proyecto TM01 de referencia, faltan:
+
+### 📁 **V. Ingenieria de Detalle/** (T05)
+- Planos de instalación detallados
+- Hojas de datos técnicos (datasheets)
+- Especificaciones de fabricantes específicos
+- Cronogramas de suministro
+
+### 📁 **VI. Operacion y Reversion/** (T06)
+- Manuales de operación
+- Procedimientos de mantenimiento
+- Plan de reversión de activos
+- Capacitación de personal
+
+### 📁 **VIII. Documentos Maestros y Metodologia/**
+- Metodología Punto 42 documentada
+- Lecciones aprendidas
+- Guías de replicación
+- Control de versiones
+
+### 📁 **IX. WBS y Planificacion/**
+- Work Breakdown Structure completo
+- Cronograma maestro del proyecto
+- Análisis de riesgos
+- Plan de gestión del proyecto
+
+### 📁 **X. Entregables Consolidados/**
+- Presupuesto final consolidado
+- Especificaciones de licitación
+- Documentos para interventoría
+- Entregables para cliente
+
+## RIESGOS CRÍTICOS IDENTIFICADOS
+
+### ⚠️ **RIESGO #1: SOBRECOSTO SIGNIFICATIVO**
+- **CAPEX/km actual:** $678,575/km
+- **Rango objetivo APP 4G:** $180K-$250K/km  
+- **Desviación:** +171% sobre límite superior
+- **Sistemas más costosos:** Variantes (34%), Intercambiadores (15%), Áreas Servicio (9%)
+
+### ⚠️ **RIESGO #2: COMPLEJIDAD DE INTEGRACIÓN**
+- 14 sistemas interconectados
+- Múltiples fabricantes y tecnologías
+- Interfaces críticas entre sistemas
+- Dependencia de importaciones
+
+### ⚠️ **RIESGO #3: CRONOGRAMA EXTENDIDO**
+- Implementación estimada: 36 meses
+- Fases críticas interdependientes
+- Riesgo de retrasos en cadena
+
+## ACTIVIDADES PRIORITARIAS FASE T05
+
+### **Semana 1-2: Optimización de Costos**
+- [ ] Análisis detallado de sobrecostos por sistema
+- [ ] Identificación de sistemas prescindibles
+- [ ] Benchmarking con proyectos similares
+- [ ] Alternativas tecnológicas costo-efectivas
+
+### **Semana 3-4: Cotizaciones y Validación**
+- [ ] Solicitar cotizaciones formales (mín. 3 por sistema)
+- [ ] Validación con especialistas técnicos
+- [ ] Revisión de cantidades y especificaciones
+- [ ] Análisis de sensibilidad de precios
+
+### **Semana 5-6: Consolidación Final**
+- [ ] Presupuesto optimizado final
+- [ ] Especificaciones de licitación
+- [ ] Cronograma maestro de implementación
+- [ ] Documentación para interventoría
+
+## LECCIONES APRENDIDAS APLICADAS
+
+### ✅ **Metodología Exitosa:**
+- Metodología Punto 42 aplicada consistentemente
+- Trazabilidad contractual 100% garantizada
+- Templates estandarizados aceleran desarrollo
+- Fabricantes múltiples evitan monopolios
+
+### ✅ **Optimizaciones Realizadas:**
+- Integración de sistemas reduce duplicaciones
+- Estandarización de protocolos simplifica operación
+- Redundancia planificada mejora disponibilidad
+- Modularidad facilita mantenimiento
+
+### ⚠️ **Desafíos Identificados:**
+- Balancear especificaciones mínimas vs. calidad
+- Garantizar interoperabilidad entre fabricantes
+- Cumplir normativa nacional e internacional
+- Optimizar costos sin comprometer funcionalidad
+
+## INSTRUCCIONES PARA CONTINUAR
+
+Si necesitas continuar con la **Fase T05**, las prioridades son:
+
+1. **Análisis de Optimización de Costos** - Reducir CAPEX/km de $678K a rango $180K-$250K
+2. **Solicitud de Cotizaciones Formales** - Precios reales del mercado 2025
+3. **Validación Técnica Independiente** - Revisión con especialistas
+4. **Preparación de Licitaciones** - Documentos técnicos para compras
+5. **Consolidación Final** - Presupuesto y cronograma optimizados
+
+**Metodología:** Mantener la misma rigurosidad y trazabilidad contractual aplicada en las fases anteriores.
+
+**Referencias:** Usar el proyecto TM01 como benchmark y las lecciones aprendidas documentadas.
+
+---
+
+**Última actualización:** 21/10/2025  
+**Estado:** ✅ FASE T04 COMPLETADA - LISTO PARA T05  
+**Próximo hito:** Optimización de costos y consolidación final
